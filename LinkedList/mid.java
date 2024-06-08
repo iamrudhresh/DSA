@@ -1,5 +1,3 @@
-
-                                
 import java.util.*;
 
 // Node class represents a node in a linked list
